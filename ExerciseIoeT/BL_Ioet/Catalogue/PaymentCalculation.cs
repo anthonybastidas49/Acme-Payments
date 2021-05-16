@@ -40,6 +40,7 @@ namespace BL_Ioet.Catalogue
         public static float paymentByHours(TimeSpan start, TimeSpan end, string schedule, string day)
         {
             float cost = 0;
+            int bonusWeekend = 5;
             int hoursWorked = (end - start).Hours;
             try
             {
@@ -49,7 +50,7 @@ namespace BL_Ioet.Catalogue
                 if (start.Hours >= startS.Hours && end.Hours <= endS.Hours)
                 {
                     cost = dictionary[schedule];
-                    return day.Contains('S') ? hoursWorked * (cost + 5) : hoursWorked * cost;
+                    return day.Contains('S') ? hoursWorked * (cost + bonusWeekend) : hoursWorked * cost;
                 }
                 else
                 {
@@ -60,7 +61,7 @@ namespace BL_Ioet.Catalogue
                         String finTRecurrencia = endS.Hours + 9 >= 24 ? "23:59:59" : endS.Hours + 9 + ":00";
                         String inicioRecurrencia = endS.Hours >= 10 ? endS.Hours + ":01" : "0" + endS.Hours + ":01";
                         string scheduleRecurrence = inicioRecurrencia + "-" + finTRecurrencia;
-                        return day.Contains('S') ? (hoursWorked * (cost + 5)) + paymentByHours(endS, end, scheduleRecurrence, day) : (hoursWorked * cost) + paymentByHours(endS, end, scheduleRecurrence, day);
+                        return day.Contains('S') ? (hoursWorked * (cost + bonusWeekend)) + paymentByHours(endS, end, scheduleRecurrence, day) : (hoursWorked * cost) + paymentByHours(endS, end, scheduleRecurrence, day);
                     }
                     else
                     {

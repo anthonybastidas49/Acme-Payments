@@ -44,7 +44,7 @@ Implementation in exercise.
 
 ![Alt text](https://scontent.fuio21-1.fna.fbcdn.net/v/t1.15752-9/186281286_736195630382420_4375608838446969152_n.png?_nc_cat=109&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeG9PTv2ccy8lSpqYFYq5NAr9Ym8BqH7sTX1ibwGofuxNZsG_cgt5FPL5u0SAJ8pn4YpyZKNiBVARp4F9GBcy2sx&_nc_ohc=S-kQ7cO1UqUAX8M5ljO&_nc_ht=scontent.fuio21-1.fna&oh=4d09ce0fb4f44ed08cf9cb6064948dee&oe=60C5ED81)
 ## Solution
-The proposed solution is based on:
+The proposed solution in c# is based on:
 - A first step that consists of, through the implementation of an "Employee" class, reading the file and formatting the information obtained through the class.
 - As a second step, a dictionary is created with the schedules and payments for the hours worked.
 - As the last step, the hours worked are calculated by identifying the hours in the dictionary to obtain the hourly cost. In this, several points were analyzed, one of them was that there could be working hours at different times, for which the application of a ``` recursive function was implemented to solve this.```
@@ -71,6 +71,13 @@ Run the following command: (Microsoft Framework address)/csc.exe Program.cs
 Run the following command: Program.exe
 ```
 ## Methodology
+
 Clean Code principles and modular programming were applied.
+
+## Files
+
+![Alt text](https://scontent.fuio21-1.fna.fbcdn.net/v/t1.15752-9/186470712_536606550667466_4491425459957286704_n.png?_nc_cat=104&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeF62_9jI6V98ltqamc5-PAOJtHC5f6Fy3Qm0cLl_oXLdFz0afuMFf9E2ZDRh4TYSEuwK8Gey22dy-MRPjQPSK8D&_nc_ohc=BYycpG9VRSoAX_-1w2E&_nc_ht=scontent.fuio21-1.fna&oh=6c6bdf40d6dc0de1129c5835952f17b2&oe=60C87E1B)
+
+![Alt text](https://scontent.fuio21-1.fna.fbcdn.net/v/t1.15752-9/155001616_375773230531974_6423663793664748947_n.png?_nc_cat=110&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeG7Z04z17D__gYe4QbYTIfI38i40J_PASvfyLjQn88BK2PAcSavuTGDUOrFKZ19_JAD9Tg4qcRlWKuVQuhdRSUT&_nc_ohc=w95fBaiQ2-oAX-ixXwI&_nc_ht=scontent.fuio21-1.fna&oh=c0ed39b7e9c158f457ffd73a5b815908&oe=60C8BFDB)
 
 
