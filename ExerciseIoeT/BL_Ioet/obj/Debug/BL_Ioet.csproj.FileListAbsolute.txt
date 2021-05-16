@@ -7,3 +7,12 @@ C:\Users\Anthony\Desktop\ExerciseIoeT\BL_Ioet\obj\Debug\BL_Ioet.csproj.CoreCompi
 C:\Users\Anthony\Desktop\ExerciseIoeT\BL_Ioet\obj\Debug\BL_Ioet.csproj.CopyComplete
 C:\Users\Anthony\Desktop\ExerciseIoeT\BL_Ioet\obj\Debug\BL_Ioet.dll
 C:\Users\Anthony\Desktop\ExerciseIoeT\BL_Ioet\obj\Debug\BL_Ioet.pdb
+C:\Users\Anthony\Desktop\Acme-Payments\ExerciseIoeT\BL_Ioet\bin\Debug\BL_Ioet.dll
+C:\Users\Anthony\Desktop\Acme-Payments\ExerciseIoeT\BL_Ioet\bin\Debug\BL_Ioet.pdb
+C:\Users\Anthony\Desktop\Acme-Payments\ExerciseIoeT\BL_Ioet\bin\Debug\AL_Ioet.dll
+C:\Users\Anthony\Desktop\Acme-Payments\ExerciseIoeT\BL_Ioet\bin\Debug\AL_Ioet.pdb
+C:\Users\Anthony\Desktop\Acme-Payments\ExerciseIoeT\BL_Ioet\obj\Debug\BL_Ioet.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\Acme-Payments\ExerciseIoeT\BL_Ioet\obj\Debug\BL_Ioet.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Acme-Payments\ExerciseIoeT\BL_Ioet\obj\Debug\BL_Ioet.csproj.CopyComplete
+C:\Users\Anthony\Desktop\Acme-Payments\ExerciseIoeT\BL_Ioet\obj\Debug\BL_Ioet.dll
+C:\Users\Anthony\Desktop\Acme-Payments\ExerciseIoeT\BL_Ioet\obj\Debug\BL_Ioet.pdb

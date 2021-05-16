@@ -54,4 +54,18 @@ Unit tests are implemented to control the reading of the files of employees and 
 ## Demonstration of operation
 ![Alt text](https://scontent.fuio21-1.fna.fbcdn.net/v/t1.15752-9/186289461_189192753056133_4890949281962917587_n.png?_nc_cat=100&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeGZogHMcd76knwKuB10AjRyzyXSNuyi8GDPJdI27KLwYPrMj3rz5Fl2qJlIIYPG0diCFOT73H7hAicnZDUkwTpi&_nc_ohc=AZ2uOmbjz3QAX9MPfWk&_nc_ht=scontent.fuio21-1.fna&oh=01d7529b505537bebe35e213b3b2a397&oe=60C89A51)
 
+## Execution
+For ease of operation demonstration, an executable file of the compiled software was uploaded to the repository.
+Install the dependencies and devDependencies and start the server.
 
+```sh
+Go to the following address: ../ ExerciseIoeT/ExerciseIoeT/bin/Debug/
+Run the file ExerciseIoeT.exe
+```
+In case of not working
+```sh
+Go to the following address: ../ ExerciseIoeT/ExerciseIoeT
+Open the address in the cmd console
+Run the following command: (Microsoft Framework address)/csc.exe Program.cs
+Run the following command: Program.exe
+```
