@@ -8,6 +8,7 @@
     | 18:01-00:00 | 20 USD |
 
 - **Saturday -  Sunday**
+
     | Schedule | Costo |
         | ------ | ------ |
         | 00:01-09:00 | 30 USD |
@@ -69,3 +70,7 @@ Open the address in the cmd console
 Run the following command: (Microsoft Framework address)/csc.exe Program.cs
 Run the following command: Program.exe
 ```
+## Methodology
+Clean Code principles and modular programming were applied.
+
+
