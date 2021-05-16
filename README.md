@@ -48,7 +48,7 @@ Implementation in exercise.
     | Layer | Path | File | Function |
     | ------ | ------ | ------ | ------ |
     | Presentation | ../ExerciseIoeT/ExerciseIoeT | Program.cs | main |
-    | Business| ../ExerciseIoeT/BL_Ioet/Catalogue/ | PaymentCalculation.cs| calculatePaymentEmployee,paymentByHours  |
+    | Business | ../ExerciseIoeT/BL_Ioet/Catalogue/ | PaymentCalculation.cs | calculatePaymentEmployee,paymentByHours |
     | Access | ../ExerciseIoeT/AL_Ioet/Controller | Payment.cs | getAllEmployees,getAllSchedule, getDictionary  |
     | Access | ../ExerciseIoeT/AL_Ioet/Model | Employee.cs,Schedule.cs  |   |
 
