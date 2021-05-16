@@ -4,9 +4,3 @@ C:\Users\Anthony\Desktop\ExerciseIoeT\AL_Ioet\obj\Debug\AL_Ioet.csprojAssemblyRe
 C:\Users\Anthony\Desktop\ExerciseIoeT\AL_Ioet\obj\Debug\AL_Ioet.csproj.CoreCompileInputs.cache
 C:\Users\Anthony\Desktop\ExerciseIoeT\AL_Ioet\obj\Debug\AL_Ioet.dll
 C:\Users\Anthony\Desktop\ExerciseIoeT\AL_Ioet\obj\Debug\AL_Ioet.pdb
-C:\Users\Anthony\Desktop\Acme-Payments\ExerciseIoeT\AL_Ioet\bin\Debug\AL_Ioet.dll
-C:\Users\Anthony\Desktop\Acme-Payments\ExerciseIoeT\AL_Ioet\bin\Debug\AL_Ioet.pdb
-C:\Users\Anthony\Desktop\Acme-Payments\ExerciseIoeT\AL_Ioet\obj\Debug\AL_Ioet.csprojAssemblyReference.cache
-C:\Users\Anthony\Desktop\Acme-Payments\ExerciseIoeT\AL_Ioet\obj\Debug\AL_Ioet.csproj.CoreCompileInputs.cache
-C:\Users\Anthony\Desktop\Acme-Payments\ExerciseIoeT\AL_Ioet\obj\Debug\AL_Ioet.dll
-C:\Users\Anthony\Desktop\Acme-Payments\ExerciseIoeT\AL_Ioet\obj\Debug\AL_Ioet.pdb
