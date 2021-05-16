@@ -45,6 +45,7 @@ Implementation in exercise.
 ![Alt text](https://scontent.fuio21-1.fna.fbcdn.net/v/t1.15752-9/186281286_736195630382420_4375608838446969152_n.png?_nc_cat=109&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeG9PTv2ccy8lSpqYFYq5NAr9Ym8BqH7sTX1ibwGofuxNZsG_cgt5FPL5u0SAJ8pn4YpyZKNiBVARp4F9GBcy2sx&_nc_ohc=S-kQ7cO1UqUAX8M5ljO&_nc_ht=scontent.fuio21-1.fna&oh=4d09ce0fb4f44ed08cf9cb6064948dee&oe=60C5ED81)
 ## Structure
 
+
     | Schedule | Costo |
     | ------ | ------ |
     | 00:01-09:00 | 30 USD |
