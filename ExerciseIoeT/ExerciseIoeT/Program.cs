@@ -10,6 +10,9 @@ namespace ExerciseIoeT
 {
     class Program
     {
+        /// <summary>
+        /// Main function for program execution
+        /// </summary>
         private static readonly PaymentCalculation payment = new PaymentCalculation();
         static void Main(string[] args)
         {

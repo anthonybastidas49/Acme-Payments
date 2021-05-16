@@ -10,6 +10,11 @@ namespace AL_Ioet.Controller
 {
     public class Payment
     {
+        /// <summary>
+        /// Responsible for obtaining all employees from a file
+        /// </summary>
+        /// <param name="path">path of employees</param>
+        /// <returns>List of employees</returns>
         public List<Employee> getAllEmployees(string path)
         {
             List<Employee> listEmployees = new List<Employee>();
@@ -40,6 +45,11 @@ namespace AL_Ioet.Controller
                 throw new Exception("Error while reading the file, descripción: "+ e.Message);
             }
         }
+        /// <summary>
+        /// In charge of obtaining the schedule
+        /// </summary>
+        /// <param name="path">path of schedule</param>
+        /// <returns>List of schedule</returns>
         public List<string> getAllSchedule(string path)
         {
             List<string> schedule = new List<string>();
@@ -57,6 +67,11 @@ namespace AL_Ioet.Controller
                 throw new Exception("Error while reading the file, descripción: " + e.Message);
             }
         }
+        /// <summary>
+        /// Create a dictionary with time and cost
+        /// </summary>
+        /// <param name="path">path of schedule</param>
+        /// <returns>Dictionary</returns>
         public Dictionary<string,float> getDictionary(string path)
         {
             Dictionary<string, float> dictionary = new Dictionary<string, float>();

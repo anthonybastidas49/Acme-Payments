@@ -12,6 +12,12 @@ namespace BL_Ioet.Catalogue
     {
         private static  Dictionary<string, float> dictionary;
         private readonly Payment daoEmployee = new Payment();
+        /// <summary>
+        /// In charge of calculating the payment of employees along with their hours through a schedule
+        /// </summary>
+        /// <param name="pathEmployees">Employees along with the list of their hours</param>
+        /// <param name="pathSchedule">Schedule list</param>
+        /// <returns>List of employees with their respective payments</returns>
         public List<Employee> calculatePaymentEmployee(string pathEmployees, string pathSchedule)
         {
             try
@@ -36,7 +42,15 @@ namespace BL_Ioet.Catalogue
             {
                 throw e;
             }
-        } 
+        }
+        /// <summary>
+        /// Calculate the payment at a specific time
+        /// </summary>
+        /// <param name="start">employee start time</param>
+        /// <param name="end">employee end time</param>
+        /// <param name="schedule">schedule</param>
+        /// <param name="day">Workday</param>
+        /// <returns></returns>
         public static float paymentByHours(TimeSpan start, TimeSpan end, string schedule, string day)
         {
             float cost = 0;
