@@ -1,4 +1,4 @@
-# Acme Payments by
+# Acme Payments
 **Statement:** The company ACME offers their employees the flexibility to work the hours they want. They will pay for the hours worked based on the day of the week and time of day, according to the following table:
 - **Monday -  Friday**
     | Schedule | Costo |
@@ -44,11 +44,12 @@ Implementation in exercise.
 
 ![Alt text](https://scontent.fuio21-1.fna.fbcdn.net/v/t1.15752-9/186281286_736195630382420_4375608838446969152_n.png?_nc_cat=109&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeG9PTv2ccy8lSpqYFYq5NAr9Ym8BqH7sTX1ibwGofuxNZsG_cgt5FPL5u0SAJ8pn4YpyZKNiBVARp4F9GBcy2sx&_nc_ohc=S-kQ7cO1UqUAX8M5ljO&_nc_ht=scontent.fuio21-1.fna&oh=4d09ce0fb4f44ed08cf9cb6064948dee&oe=60C5ED81)
 
+- **Monday -  Friday**
     | Schedule | Costo |
     | ------ | ------ |
-    | 00:01-09:00 | 30 USD |
-    | 09:01-18:00 | 20 USD |
-    | 18:01-00:00 | 25 USD |
+    | 00:01-09:00 | 25 USD |
+    | 09:01-18:00 | 15 USD |
+    | 18:01-00:00 | 20 USD |
 
 ## Structure
 
