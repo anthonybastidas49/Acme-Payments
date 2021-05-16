@@ -46,13 +46,7 @@ Implementation in exercise.
 
 ## Structure
 
-- **Monday -  Friday**
-    | Schedule | Costo |
-    | ------ | ------ |
-    | 00:01-09:00 | 25 USD |
-    | 09:01-18:00 | 15 USD |
-    | 18:01-00:00 | 20 USD |
-
+- 
     | Layer | Path | File | Function |
     | ------ | ------ | ------ | ------ |
     | Presentation | ../ExerciseIoeT/ExerciseIoeT | Program.cs | main |
